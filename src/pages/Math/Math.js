@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import ArrowDown from '../../images/icons/arrow-down.svg';
 import ClassHoverButton from "../../Components/ClassHoverButton";
 import PageButton from "../../Components/PageButton";

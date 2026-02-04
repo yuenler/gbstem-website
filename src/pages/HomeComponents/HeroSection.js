@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Row, Col, Button } from 'react-bootstrap';
 import inperson1 from '../../images/in-person/inperson1.jpeg';
-import { registrationOpen, semesterStartDate } from '../../Constants';
+import { registrationOpen } from '../../Constants';
 
 function HeroSection() {
   return (

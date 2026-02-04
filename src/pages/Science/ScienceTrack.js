@@ -1,9 +1,7 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {Link} from 'react-router-dom';
 import ClassHoverButton from '../../Components/ClassHoverButton';
 import PageButton from '../../Components/PageButton';
-import ArrowDown from '../../images/icons/arrow-down.svg';
 
 const ScienceTrack = () => {
   return (

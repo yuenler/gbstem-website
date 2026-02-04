@@ -1,5 +1,5 @@
 import { React, useState, useEffect } from 'react';
-import { BrowserRouter as Router, Route, Link, Routes } from 'react-router-dom';
+import { Route, Link, Routes } from 'react-router-dom';
 import { HashRouter } from "react-router-dom";
 import { Navbar, Nav, NavDropdown, Modal } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap CSS
@@ -53,17 +53,6 @@ function App() {
     color: '#ffc819'
   },
   ]
-  const [index, setIndex] = useState(0);
-
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setIndex((prevIndex) => (prevIndex + 1) % banners.length);
-    }, 5000);
-
-    return () => {
-      clearInterval(interval);
-    };
-  }, [banners.length]);
 
   return (
     <HashRouter>
