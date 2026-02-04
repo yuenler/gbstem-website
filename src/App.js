@@ -1,4 +1,4 @@
-import { React, useState, useEffect } from 'react';
+import { React, useState } from 'react';
 import { Route, Link, Routes } from 'react-router-dom';
 import { HashRouter } from "react-router-dom";
 import { Navbar, Nav, NavDropdown, Modal } from 'react-bootstrap';
@@ -44,16 +44,6 @@ import { registrationOpen, formLink, gbSTEMSignup, semesterInProgress } from './
 
 function App() {
   const [show, setShow] = useState(false);
-  const banners = [
-  {
-    text: "gbSTEM merchandise is now available for purchase! Support us by checking out",
-    link: "https://gbstem.myspreadshop.com/all",
-    linkText: "our Spreadshop store.",
-    onClick: false,
-    color: '#ffc819'
-  },
-  ]
-
   return (
     <HashRouter>
       <Navbar variant="dark" expand="lg" style={{ backgroundColor: '#1D2256' }}>
