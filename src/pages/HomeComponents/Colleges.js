@@ -9,15 +9,15 @@ function Colleges() {
     { name: 'Tufts University', logo: 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Tufts_University_logo.png' },
     { name: 'University of Chicago', logo: 'https://i0.wp.com/biocars.uchicago.edu/wp-content/uploads/2019/05/cropped-logo.png?ssl=1' },
     { name: 'Brown University', logo: 'https://smartwatermagazine.com/sites/default/files/brown_university_logo.jpg' },
-    { name: 'Boston University', logo: 'https://content.sportslogos.net/logos/30/619/full/boston_university_terriers_logo_secondary_2015_sportslogosnet-5796.png' },
+    { name: 'Boston University', logo: 'https://content.sportslogos.net/logos/30/619/full/boston_university_terriers_logo_secondary_2015_sportslogosnet-5796.png//content.sportslogos.net/logos/30/619/full/boston_university_terriers_logo_secondary_2015_sportslogosnet-5796.png' },
     { name: 'Northwestern University', logo: 'https://upload.wikimedia.org/wikipedia/commons/4/48/Northwestern_University.png' },
     { name: 'Georgetown', logo: 'https://www.georgetown.edu/wp-content/uploads/2019/10/Georgetown_logo_blueRGB.jpg' },
     { name: 'NYU', logo: 'https://yt3.ggpht.com/-RZYi5isxH_M/AAAAAAAAAAI/AAAAAAAAAAA/rmWpoe2qZzI/s900-c-k-no/photo.jpg' },
     { name: 'Worcester Polytechnic Institute', logo: 'https://buildagrad.com/content/v2/images/wpi/WPI_Seal_FulClr.jpg' },
     { name: 'Swarthmore College', logo: 'https://www.thecollegetour.com/wp-content/uploads/2022/08/swarthmore-college.png' },
     { name: 'UCLA', logo: 'https://1000logos.net/wp-content/uploads/2017/11/UCLA-Logo.png' },
-    { name: 'Columbia', logo: 'https://admissions.ucr.edu/sites/default/files/styles/form_preview/public/2020-07/ucr-education-logo-columbia-university.png?itok=-0FD6Ma2' },
-    { name: 'Princeton', logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Princeton_seal.svg/140px-Princeton_seal.svg.png' },
+    { name: 'Columbia', logo: 'https://png.pngtree.com/png-clipart/20220530/original/pngtree-columbia-university-png-image_7775958.png' },
+    { name: 'Princeton', logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Princeton_Tigers_logo.svg/960px-Princeton_Tigers_logo.svg.png' },
     { name: 'UMass Amherst', logo: 'https://upload.wikimedia.org/wikipedia/commons/4/4f/UMass_Seal_Medium_PMS_202.png' },
   ];
 
