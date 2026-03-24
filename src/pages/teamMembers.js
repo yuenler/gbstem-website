@@ -44,7 +44,7 @@ const teamMembers = [
   },
   {
     name: 'Kendree Chen',
-    school: 'Massachusetts Institute of Technology',
+    school: 'MIT',
     graduationYear: '‘29',
     profilePic: kendree,
     role: 'Co-President',
@@ -75,7 +75,7 @@ const teamMembers = [
     graduationYear: '‘25',
     profilePic: yuenler,
     role: 'Advisor',
-    bio: "Yuen Ler is a senior at Harvard studying computer science and statistics. Yuen Ler founded gbSTEM in March of 2020 with the goal of increasing access to STEM education in his community.",
+    bio: "Yuen Ler graduated from Harvard in 2025 with a bachelor's and master's in computer science and statistics. He currently works as a software engineer at AWS. Yuen Ler founded gbSTEM in March of 2020 with the goal of increasing access to STEM education in his community.",
     team: "advisors",
   },
   {
